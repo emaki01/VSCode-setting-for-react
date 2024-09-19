@@ -8,3 +8,7 @@
    ```CTRL + P``` "```>settings```" and choose "Open User Settings (JSON)"
 
   3. Replace the content of this settings file by the settings of this repository ```CTRL+A, CTRL+V```
+
+
+## Export mine before ?
+In ```C:\Users\username\AppData\Roaming\Code\User)``` on Windows, save your ```settings.json``` file
