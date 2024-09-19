@@ -10,5 +10,5 @@
   3. Replace the content of this settings file by the settings of this repository ```CTRL+A, CTRL+V```
 
 
-## Export mine before ?
-In ```C:\Users\username\AppData\Roaming\Code\User)``` on Windows, save your ```settings.json``` file
+## Compare or export mine before ?
+Go to ```C:\Users\username\AppData\Roaming\Code\User``` on Windows, and save your ```settings.json``` file
