@@ -30,5 +30,6 @@
   "workbench.colorTheme": "Default Dark Modern",
   "window.zoomLevel": 0,
   "git.autofetch": true,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "icons"
 }
